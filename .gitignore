@@ -1,0 +1,2 @@
+/testdata/secret/*
+!/testdata/secret/.keep
